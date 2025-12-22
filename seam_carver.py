@@ -5,7 +5,7 @@ import cv2
 #for video generation
 import subprocess
 os.chdir(os.getcwd())
-path_to_cache = "carvable/normal"
+path_to_cache = "carvable"
 path_to_img = 'carvable/carvable.png'
 
 #make video
